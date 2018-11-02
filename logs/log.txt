@@ -1,0 +1,2 @@
+2018-11-02 15:57:32:743 unittest/logging/yap_logging_ut.cc:23:139794959107904 INFO: hehe
+2018-11-02 17:24:16:985 unittest/logging/yap_logging_ut.cc:23:140215748593472 INFO: hehe
